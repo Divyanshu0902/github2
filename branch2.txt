@@ -1,1 +1,2 @@
 This is some random text for this text file.
+another text added to branch2.txt file.
